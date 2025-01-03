@@ -20,3 +20,11 @@ this project can be directly imported and run after adding all the dependencies
 
 
 ![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s1.jpg)
+![image ait]()
+![image ait]()
+![image ait]()
+![image ait]()
+![image ait]()
+![image ait]()
+![image ait]()
+
