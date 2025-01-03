@@ -19,4 +19,4 @@ this project can be directly imported and run after adding all the dependencies
 # Some Screenshots of this Project:
 
 
-![image ait]()
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s1.jpg)
