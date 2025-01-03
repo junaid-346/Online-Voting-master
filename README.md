@@ -20,11 +20,12 @@ this project can be directly imported and run after adding all the dependencies
 
 
 ![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s1.jpg)
-![image ait]()
-![image ait]()
-![image ait]()
-![image ait]()
-![image ait]()
-![image ait]()
-![image ait]()
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s2.jpg)
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s3.jpg)
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s4.jpg)
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s5.jpg)
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s6.jpg)
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s7.jpg)
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s8.jpg)
+![image ait](https://github.com/junaid-346/Online-Voting-master/blob/main/s9.jpg)
 
